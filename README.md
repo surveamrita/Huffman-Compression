@@ -1,0 +1,2 @@
+# Huffman-Compression
+Designing an efficient Huffman Compression Scheme by comparing 3 data structures: Binary Heap, 4-way Cache Optimized Heap and Pairing Heaps and using the fastest data structure for compression. Developed the Huffman Compression Scheme using 4-way Cache Optimized Heap using Java to get running times of &lt;20 secs for encoding and &lt;10 secs for decoding for 10 million records. 
